@@ -30,13 +30,6 @@ This project is a proof-of-concept stock trading simulator for US stocks, built 
    ```
    The application will be available at [http://localhost:3000](http://localhost:3000).
 
-## API Key
-
-The project uses the following hardcoded Alpha Vantage API key (for intranet use):
-
-```
-mZaCU1705VC1XqCORwoiBylcekWVixHn
-```
 
 ## Project Structure
 
