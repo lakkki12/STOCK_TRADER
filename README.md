@@ -2,6 +2,10 @@
 
 This project is a proof-of-concept stock trading simulator for US stocks, built with React. It uses the Alpha Vantage API to fetch real-time and historical stock data and simulates trades based on user inputs and candlestick pattern detection.
 
+## Why I built this
+
+I wanted to explore how stock trading works beyond just looking at price charts. I built this simulator to experiment with market data, candlestick patterns, and trading strategies without risking real money. It also gave me a practical way to work with REST APIs, React, and financial data while understanding how trading decisions affect simulated profits and losses.
+
 ## Features
 
 - **Real-Time Stock Chart:** Displays live stock data with candlestick pattern overlays.
